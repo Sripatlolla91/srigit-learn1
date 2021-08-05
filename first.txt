@@ -1,1 +1,3 @@
  Hi dis is Sridhar, Welcome to Git
+
+ Code added to the file 
